@@ -1,0 +1,14 @@
+{
+  "name": "sells-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/paulofelipebrito/sells-api.git",
+  "author": "Paulo Felipe Brito <paulofelipebrito@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.33",
+    "ts-node-dev": "^1.1.8",
+    "tsconfig-paths": "^4.0.0",
+    "typescript": "^4.6.4"
+  }
+}
